@@ -1,0 +1,1 @@
+TapForHelp V3.6. Deploy to tapforhelp-dev only. Includes polished About and Support pages plus initial verified-resource layer for Housing, Food, Benefits, and Mental Health. Resource details were transcribed from the supplied Delaware resource flyer and Clinical Resources workbook; verify before production release.
